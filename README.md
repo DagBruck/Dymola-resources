@@ -4,7 +4,9 @@ Documents, information, and other resources for the Dymola product.
 Here you will find several kinds of Dymola-related resources that you may find interesting.
 - Information about the latest release.
 - Earlier releases
-- WHite pappers, short documents highlighting some key features of Dymola.
+- White papers, short documents highlighting some key features of Dymola.
+
+To contact sales people at DS who specialize in Dymola, send an e-mail to Dymola.sales@3ds.com.
 
 ## Dymola 2024x refresh 1
 We are delighted to announce that Dymola 2024x Refresh 1 was released on April 19, 2024.
