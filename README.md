@@ -8,7 +8,7 @@ Here you will find several kinds of Dymola-related resources that you may find i
 
 To contact sales people at DS who specialize in Dymola, send an e-mail to Dymola.sales@3ds.com.
 
-## Dymola 2024x refresh 1
+## Dymola 2024x Refresh 1
 We are delighted to announce that Dymola 2024x Refresh 1 was released on April 19, 2024.
 
 ### Model Development
@@ -31,3 +31,5 @@ with several top-level system descriptions.
 ### FMI for Embedded Systems
 Software Production Engineering is a newly available cloud-based code generator that supports
 generation of eFMI production code. It is fully integrated with Dymola.
+
+![Software Production Engineering](https://github.com/DagBruck/Dymola-resources/blob/main/releases/Dymola%202024x%20Refresh%201/Dymola-2024x-R1-SOP.png)
