@@ -31,3 +31,5 @@ with several top-level system descriptions.
 ### FMI for Embedded Systems
 Software Production Engineering is a newly available cloud-based code generator that supports
 generation of eFMI production code. It is fully integrated with Dymola.
+
+![Software Production Engineering](https://github.com/DagBruck/Dymola-resources/blob/main/releases/Dymola%202024x%20Refresh%201/Dymola-2024x-R1-SOP.png)
