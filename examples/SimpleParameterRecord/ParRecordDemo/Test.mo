@@ -1,5 +1,5 @@
 within ParRecordDemo;
-model Test
+model Test "Test case applying parameters"
   replaceable TestParameters par;
   extends Modelica.Mechanics.Rotational.Examples.CoupledClutches(
     f=par.f,
@@ -8,4 +8,5 @@ model Test
 
 equation
 
+  annotation (__Dymola_UserMetaData(MetaData(category="User Meta Data")));
 end Test;
