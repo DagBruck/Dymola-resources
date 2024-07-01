@@ -1,6 +1,6 @@
 within MasterParameter;
 model Test "Use package parameter"
-  parameter MasterParameter.ParSet par=InitializeParameters("parameterfile.txt")
+  parameter MasterParameter.ParSet par=InitializeParameters("masterfile.txt")
     annotation (Evaluate=false);
   extends Modelica.Mechanics.Rotational.Examples.CoupledClutches(
     J1(J=par.J[1]),
