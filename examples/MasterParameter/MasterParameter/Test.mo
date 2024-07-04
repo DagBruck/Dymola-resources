@@ -1,15 +1,13 @@
 within MasterParameter;
 model Test "Use package parameter"
-  parameter String master="masterfile.txt"   "Name of master file";
-  parameter MasterParameter.ParSet par=InitializeParameters(master)
-    annotation (Evaluate=false);
+  parameter String master="masterfile.txt" "Name of master file" annotation (Evaluate=false);
+  parameter MasterParameter.ParSet par=InitializeParameters(master) annotation (Evaluate=false);
   extends Modelica.Mechanics.Rotational.Examples.CoupledClutches(
     J1(J=par.J[1]),
     J2(J=par.J[2]),
     J3(J=par.J[3]),
     J4(J=par.J[4]));
-  annotation (
-    Documentation(figures={Figure(
+  annotation (Documentation(figures={Figure(
           title="Plot",
           preferred=true,
           plots={Plot(
