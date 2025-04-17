@@ -8,8 +8,8 @@ Here you will find several kinds of Dymola-related resources that you may find i
 
 To contact sales people at DS who specialize in Dymola, send an e-mail to Dymola.sales@3ds.com.
 
-## Dymola 2024x Refresh 1
-We are delighted to announce that Dymola 2024x Refresh 1 was released on April 19, 2024.
+## Dymola 2025x Refresh 1
+We are delighted to announce that Dymola 2024x Refresh 1 was released on April 18, 2025.
 
 ### Model Development
 Dymola supports reading of libraries in the proposed standard Modelica format (.mol files),
