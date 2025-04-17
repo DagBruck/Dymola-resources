@@ -1,17 +1,18 @@
-Dymola 2025x
-2024-11-29
+Dymola 2025x Refresh 1
+2025-04-18
 
-We are delighted to announce that Dymola 2025x was released on November 29, 2024.
-
-Model development
--	Variable-length parameter arrays
--	Improved parameter management
--	Better Git support
+We are delighted to announce that Dymola 2025x Refresh 1 was released on April 18, 2025.
 
 Simulation
--	Faster simulation of Modelica functions
--	New FMI co-simulation technology
--	Dymola Modelica Compiler
+- Simplified parameter optimization user interface
+- Enhanced Monte-Carlo simulation
+- Improved generation of analytic Jacobian
 
-Libraries
--	ThermalSystems replaced by TIL Suite
+Model development
+- Further improved unit checking
+- No code generation that does not affect outputs (optional)
+- More accurate parallelization for external functions
+
+Environment
+- Download and install libraries from GitHub
+- Meta data to support creating the Commands menu in Dymola
