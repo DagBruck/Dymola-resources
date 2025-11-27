@@ -1,18 +1,16 @@
-Dymola 2025x Refresh 1
-2025-04-18
+Dymola 2026x
+2025-11-28
 
-We are delighted to announce that Dymola 2025x Refresh 1 was released on April 18, 2025.
+We are delighted to announce that Dymola 2026x was released on November 28, 2025.
+
+Libraries
+  - Sustainable Supply Systems Library
+  - Modelica Standard library 4.1.0
 
 Simulation
-- Simplified parameter optimization user interface
-- Enhanced Monte-Carlo simulation
-- Improved generation of analytic Jacobian
+  - Reduced size of Modelica FMU wrapper
+  - More efficient code generation for arrays
+  - Analytical adjoint derivatives for the ODE problem
 
 Model development
-- Further improved unit checking
-- No code generation that does not affect outputs (optional)
-- More accurate parallelization for external functions
-
-Environment
-- Download and install libraries from GitHub
-- Meta data to support creating the Commands menu in Dymola
+  - Text editor: select a variable and open its definition
