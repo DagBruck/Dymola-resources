@@ -1,1 +1,1 @@
-MOVED https://github.com/DagBruck/Dymola-resources/blob/main/releases/latestrelease.txt?raw=true
+MOVED https://github.com/DagBruck/Dymola-resources/blob/main/releases/latestrelease1.txt?raw=true
