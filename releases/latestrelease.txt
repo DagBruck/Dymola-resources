@@ -1,16 +1,19 @@
-Dymola 2026x
-2025-11-28
+Dymola 2026x Refresh 1
+2026-04-17
 
-We are delighted to announce that Dymola 2026x was released on November 28, 2025.
-
-Libraries
-  - Sustainable Supply Systems Library
-  - Modelica Standard library 4.1.0
-
-Simulation
-  - Reduced size of Modelica FMU wrapper
-  - More efficient code generation for arrays
-  - Analytical adjoint derivatives for the ODE problem
+We are pleased to announce that Dymola 2026x Refresh 1 was released on Friday, 17 April 2026. Summary of key features:
 
 Model development
-  - Text editor: select a variable and open its definition
+- Icons in the variable browser. Makes browsing of the simulation result easier.
+- LEO virtual companion (AI) for model development and analysis, requires integration with 3DEXPERIENCE (Beta).
+
+Simulation
+- Integrated calibration of model parameters (new user interface).
+- Parameter sweep with grouping.
+- Dynamic optimization of FMUs using e.g. CasADi (Beta).
+
+Other
+- Library improvements.
+- Integrated eFMI production code generation. Code generation on cloud not needed.
+- Upgraded FLEXnet license server with recent security patches.
+
